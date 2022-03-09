@@ -350,20 +350,6 @@ paxinos-en:
  bio: "Honorary Doctor"
  avatar: "/assets/images/paxinos.jpg"
 
-wegner:
- name: "Bernd Wegner"
- email: ""
- uri: ""
- bio: "Επίτιμος Διδάκτορας"
- avatar: "/assets/images/wegner.jpg"
-
-wegner-en:
- name: "Bernd Wegner"
- email: ""
- uri: ""
- bio: "Honorary Doctor"
- avatar: "/assets/images/wegner.jpg"
-
 riggas:
   name: "Δημήτριος Ρίγγας"
   email: "riggas@ionio.gr"
